@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🖖🏾 MlkNerd.Dev
+**`Security Developer`**
 
-<!--
-**MalokaNerd/MalokaNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá me chamo MlkNerd, iniciante em Python | Focado em Cyber Segurança | Aprendendo e compartilhando conhecimento | Meta: Contribuir para segurança digital.
 
-Here are some ideas to get you started:
+### 👁 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
