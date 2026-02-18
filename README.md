@@ -13,4 +13,4 @@ Olá me chamo MlkNerd, iniciante em Python | Focado em Cyber Segurança | Aprend
   width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+ 
