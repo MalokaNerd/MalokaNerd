@@ -6,13 +6,7 @@ Olá me chamo MlkNerd, iniciante em Python | Focado em Cyber Segurança | Aprend
 ### 👁 Linguagens e Tecnologias
 
 
-<img 
-  align="left"
-  alt="Python"
-  title="Python"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
          
           
